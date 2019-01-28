@@ -20,6 +20,12 @@ namespace проверка
         private void Form1_Load(object sender, EventArgs e)
         {
 
+            this.reportViewer1.RefreshReport();
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            //это изменение 2
         }
     }
 }
