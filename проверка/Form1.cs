@@ -25,7 +25,12 @@ namespace проверка
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            //это изменение 2
+            //скука это наше все но надо постараться ведь хочу я победить чтобы быть умнее
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
